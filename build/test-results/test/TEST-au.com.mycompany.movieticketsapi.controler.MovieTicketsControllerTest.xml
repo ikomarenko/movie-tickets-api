@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.mycompany.movieticketsapi.controler.MovieTicketsControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-03T10:38:17.871Z" hostname="K46H4CWGC4" time="0.076">
+  <properties/>
+  <testcase name="testReportTransactionTicketsCosts()" classname="au.com.mycompany.movieticketsapi.controler.MovieTicketsControllerTest" time="0.076"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-11-03T10:38:18.076Z" hostname="K46H4CWGC4" time="0.027">
+  <properties/>
+  <testcase name="testReportTransactionTicketsCosts()" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.002"/>
+  <testcase name="testAddTicketToMapAndIncrementQuantityWhenDoesNotExistInMap()" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.001"/>
+  <testcase name="[1] ageTicketTypeData=(70,Senior)" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.005"/>
+  <testcase name="[2] ageTicketTypeData=(5,Children)" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.001"/>
+  <testcase name="testAddTicketToMapAndIncrementQuantityWhenAlreadyExistsInMap()" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.001"/>
+  <testcase name="[1] ticketData=(Senior,1,Ticket(ticketType=Senior, quantity=1, totalCost=17.50))" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.001"/>
+  <testcase name="[2] ticketData=(Children,2,Ticket(ticketType=Children, quantity=2, totalCost=10.00))" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.001"/>
+  <testcase name="testGetTicketTypeAndQuantity()" classname="au.com.mycompany.movieticketsapi.service.MovieTicketsServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
